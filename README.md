@@ -1,6 +1,6 @@
 # Recibee
 
-## build with react-native
+## built with react-native
 
 ### Unfinished
 
