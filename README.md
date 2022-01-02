@@ -1,6 +1,6 @@
 # Recibee
 
-## built with react-native
+## An app that is built with react-native
 
 ### Unfinished
 
